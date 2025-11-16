@@ -38,11 +38,6 @@ export function Footer() {
                   First Story
                 </ExternalLinkComponent>
               </li>
-              <li>
-                <ExternalLinkComponent href="https://umarai-books.booth.pm/items/4130172">
-                  o11y Story
-                </ExternalLinkComponent>
-              </li>
             </ul>
           </div>
 
