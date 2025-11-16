@@ -43,11 +43,6 @@ export function Footer() {
                   o11y Story
                 </ExternalLinkComponent>
               </li>
-              <li>
-                <ExternalLinkComponent href="https://umarai-books.booth.pm/items/5757590">
-                  The Cloud Run
-                </ExternalLinkComponent>
-              </li>
             </ul>
           </div>
 
