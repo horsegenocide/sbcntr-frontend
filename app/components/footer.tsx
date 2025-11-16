@@ -39,11 +39,6 @@ export function Footer() {
                 </ExternalLinkComponent>
               </li>
               <li>
-                <ExternalLinkComponent href="https://umarai-books.booth.pm/items/3045918">
-                  IaC Story
-                </ExternalLinkComponent>
-              </li>
-              <li>
                 <ExternalLinkComponent href="https://umarai-books.booth.pm/items/4130172">
                   o11y Story
                 </ExternalLinkComponent>
